@@ -10,3 +10,4 @@ if __name__ == "__main__":
     list_squares = [Square(35), Square(15, 70, 50), Square(80, 30, 70)]
 
     Base.draw(list_rectangles, list_squares)
+
